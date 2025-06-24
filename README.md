@@ -14,6 +14,7 @@
 - [Reinforcement Learning](#reinforcement-learning)
 - [AI for Edge Computing](#ai-for-edge-computing)
 - [AI Ethics](#ai-ethics)
+- [Frameworks & Libraries](#frameworks--libraries)
 - [AI Infrastructure](#ai-infrastructure)
 - [Learning Resources](#learning-resources)
 - [Books](#books)
@@ -85,6 +86,10 @@
 - [FAT Forensics](https://fat-forensics.org/) - A toolkit for Fairness, Accountability, and Transparency in AI.
 - [Papers on AI Ethics](https://www.partnershiponai.org/papers/) - A collection of influential research papers on AI ethics.
 
+## Frameworks & Libraries
+
+- [Modus](https://github.com/hypermodeinc/modus): An open source, serverless framework for building intelligent agents and APIs in Go or AssemblyScript (a TypeScript-like language).
+
 ## Learning Resources
 
 - [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) - An introductory machine learning course by Andrew Ng.
@@ -95,11 +100,11 @@
 
 ## Books
 
-- *Deep Learning* by Ian Goodfellow, Yoshua Bengio, and Aaron Courville - A foundational book on deep learning techniques.
-- *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* by Aurélien Géron - A practical guide to machine learning.
-- *Artificial Intelligence: A Modern Approach* by Stuart Russell and Peter Norvig - A comprehensive textbook on AI.
-- *Machine Learning Yearning* by Andrew Ng - A book on how to structure machine learning projects effectively.
-- *The Hundred-Page Machine Learning Book* by Andriy Burkov - A concise introduction to machine learning.
+- _Deep Learning_ by Ian Goodfellow, Yoshua Bengio, and Aaron Courville - A foundational book on deep learning techniques.
+- _Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_ by Aurélien Géron - A practical guide to machine learning.
+- _Artificial Intelligence: A Modern Approach_ by Stuart Russell and Peter Norvig - A comprehensive textbook on AI.
+- _Machine Learning Yearning_ by Andrew Ng - A book on how to structure machine learning projects effectively.
+- _The Hundred-Page Machine Learning Book_ by Andriy Burkov - A concise introduction to machine learning.
 
 ## Community
 
