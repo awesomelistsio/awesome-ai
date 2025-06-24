@@ -100,11 +100,11 @@
 
 ## Books
 
-- _Deep Learning_ by Ian Goodfellow, Yoshua Bengio, and Aaron Courville - A foundational book on deep learning techniques.
-- _Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_ by Aurélien Géron - A practical guide to machine learning.
-- _Artificial Intelligence: A Modern Approach_ by Stuart Russell and Peter Norvig - A comprehensive textbook on AI.
-- _Machine Learning Yearning_ by Andrew Ng - A book on how to structure machine learning projects effectively.
-- _The Hundred-Page Machine Learning Book_ by Andriy Burkov - A concise introduction to machine learning.
+- *Deep Learning* by Ian Goodfellow, Yoshua Bengio, and Aaron Courville - A foundational book on deep learning techniques.
+- *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* by Aurélien Géron - A practical guide to machine learning.
+- *Artificial Intelligence: A Modern Approach* by Stuart Russell and Peter Norvig - A comprehensive textbook on AI.
+- *Machine Learning Yearning* by Andrew Ng - A book on how to structure machine learning projects effectively.
+- *The Hundred-Page Machine Learning Book* by Andriy Burkov - A concise introduction to machine learning.
 
 ## Community
 
