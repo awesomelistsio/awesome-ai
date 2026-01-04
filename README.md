@@ -23,6 +23,7 @@
 
 ## General AI
 
+- [Price Per Token](https://pricepertoken.com/) - Compare LLM API pricing across 300+ models from OpenAI, Anthropic, Google, and 30+ providers.
 - [TensorFlow](https://www.tensorflow.org/) - An open-source platform for machine learning, providing a comprehensive ecosystem of tools.
 - [PyTorch](https://pytorch.org/) - An open-source deep learning framework that provides a flexible and dynamic computation graph.
 - [Scikit-learn](https://scikit-learn.org/stable/) - A Python library for machine learning, featuring various classification, regression, and clustering algorithms.
