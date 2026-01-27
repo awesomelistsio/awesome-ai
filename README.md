@@ -97,6 +97,7 @@
 - [Google AI Hub](https://ai.google/) - A platform for AI research and learning by Google.
 - [PyTorch Tutorials](https://pytorch.org/tutorials/) - Official tutorials for learning PyTorch.
 - [Fast.ai Courses](https://course.fast.ai/) - Free courses on deep learning and AI.
+- [AI Security Course](https://academy.8ksec.io/course/practical-ai-security) - AI LLM security course with hands-on labs.
 
 ## Books
 
