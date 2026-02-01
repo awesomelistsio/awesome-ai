@@ -33,6 +33,7 @@
 - [Scikit-learn](https://scikit-learn.org/stable/) - A Python library for machine learning, featuring various classification, regression, and clustering algorithms.
 - [Keras](https://keras.io/) - A high-level neural networks API, written in Python and capable of running on top of TensorFlow or Theano.
 - [OpenAI Gym](https://www.gymlibrary.dev/) - A toolkit for developing and comparing reinforcement learning algorithms.
+- [Aquin](https://www.aquin.app/) - Vibe Code your own LLMs, your own data, your own control; People can build their own LLMs including those with GPUs and CPUs in up to 2 - 3 minutes
 
 ## Machine Learning
 
