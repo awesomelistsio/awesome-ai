@@ -113,6 +113,7 @@
 - [Kaggle](https://www.kaggle.com/) - A platform for data science competitions and community.
 - [PyTorch Forums](https://discuss.pytorch.org/) - A forum for discussing PyTorch-related topics.
 - [AI Ethics Slack Group](https://ethical.institute/slack.html) - A Slack group for discussions on AI ethics.
+- [Awesome AI Index](https://github.com/alpha-one-index/awesome-ai-index#readme) – A curated catalog of AI tools, models, papers, frameworks, and resources for engineers and researchers.
 
 ## Contribute
 
